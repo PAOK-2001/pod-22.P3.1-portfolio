@@ -23,6 +23,10 @@
     color: black;
 }
 
+.navLink a:hover {
+    color: gray; 
+  }
+
 .nav-content{
     display: flex;
     justify-content: space-between;
